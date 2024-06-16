@@ -1,0 +1,15 @@
+testing 
+# different packages for testing 
+
+1 file for testing  
+
+2 fuc for testing 
+ ex:
+fuc Testcheckgrade(t *testing.T){
+   - struct 
+   - slice 
+   - for _,val := range name_struct 
+   t.Run = check all conditions 
+}
+
+
